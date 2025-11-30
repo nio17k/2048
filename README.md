@@ -1,1 +1,2 @@
 # 2048
+Permainan 2048 adalah game yang dimainkan pada 4x4 grid dan diisi dengan tiles yang berangka berlipatan. Game akan diawali dengan 2 tile yang berangka 2 dan saat mereka bertabrakkan tiles akan bergabung dan menghasilkan angka kelipatannya (ex: 2 jadi 4, 4 jadi 8, dsb). Tujuan dari game ini adalah untuk mendapatkan tile berangka 2048 dan game akan berakhir jika grid sudah penuh atau sudah tidak ada tile yang dapat digabung.
